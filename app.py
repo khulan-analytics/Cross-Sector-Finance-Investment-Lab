@@ -84,6 +84,7 @@ st.set_page_config(
     page_title="Cross-Sector Finance & Investment Lab",
     page_icon="📊",
     layout="wide",
+    initial_sidebar_state="expanded"
 )
 
 COMPANIES = {
