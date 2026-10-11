@@ -359,6 +359,7 @@ def run_credit_risk(data: pd.DataFrame, target: str, model_name: str, test_size:
 # Sidebar navigation
 # -------------------------------------------------------------------
 st.title("Cross-Sector Finance & Investment Lab")
+st.caption("Created by Khulan Ganzorig| MS in Business Analytics, University at Buffalo")
 st.caption("A finance-oriented analytics portfolio: company screening, valuation, portfolio risk, technical analysis, and credit-risk modeling.")
 
 with st.sidebar:
