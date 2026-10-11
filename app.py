@@ -364,8 +364,7 @@ st.caption("Created by Khulan Ganzorig| MS in Business Analytics, University at 
 st.caption("A finance-oriented analytics portfolio: company screening, valuation, portfolio risk, technical analysis, and credit-risk modeling.")
 
 with st.sidebar:
-    st.header("☰ Research Menu")
-    st.caption("Explore all 7 finance modules")
+    st.header("Research Menu")
     page = st.radio(
         "Choose a module",
         [
