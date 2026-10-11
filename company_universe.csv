@@ -1,0 +1,13 @@
+ticker,company,sector
+MSFT,Microsoft,Technology
+NVDA,NVIDIA,Technology
+GOOGL,Alphabet,Communication Services
+JPM,JPMorgan Chase,Banking
+GS,Goldman Sachs,Banking
+LMT,Lockheed Martin,Aerospace & Defense
+NOC,Northrop Grumman,Aerospace & Defense
+RTX,RTX,Aerospace & Defense
+LLY,Eli Lilly,Healthcare
+COST,Costco,Consumer Staples
+CAT,Caterpillar,Industrials
+XOM,Exxon Mobil,Energy
